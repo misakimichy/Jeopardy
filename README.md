@@ -11,7 +11,7 @@ Additional information for this game can be found on [Wikipedia](https://en.wiki
 ## Links:
 
 * Github - [Wei](https://github.com/weidai07/Jeopardy)
-* Github - [Misaki](https://github.com/misakimichy/Jeopardy)
+* Github - [Misaki](https://github.com/misakimichy)
 * Github - [Jake](https://github.com/JakeAsh22/Jeopardy)
 * Github - [Andrew](https://github.com/abatesaccs/Jeopardy)
 
@@ -43,11 +43,7 @@ Additional information for this game can be found on [Wikipedia](https://en.wiki
 
 ## Technologies Used:
 
-* C#
-* .NET
-* Microsoft(MS) Test
-* SQL
-* LINQ 
+C#, ASP.NET Core MVC, MySQL, LINQ 
 
 ### License:
 
